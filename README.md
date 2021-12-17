@@ -4,7 +4,7 @@ I was born in Hue, and raised in Binh Duong. I lived in Ho Chi Minh City for a w
 
 ## Academic
 
-I am a physics major at [VNU-HN University of Science](https://en.wikipedia.org/wiki/VNU_University_of_Science). My current field of interest is quantum computing. As of 2021, I have been working around quantum algorithms, specifically [Variational-Quantum-Eigensolver (VQE)](https://grove-docs.readthedocs.io/en/latest/vqe.html) and working my way up from there.
+I am a physics major at [VNU-HN University of Science](https://en.wikipedia.org/wiki/VNU_University_of_Science). My current field of interest is quantum computing. As of 2021, I have been working around superconducting qubits, both theoretical and experimental aspects, and working my way up from there.
 
 ## Outreach
 
