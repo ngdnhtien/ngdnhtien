@@ -20,4 +20,5 @@ Check out my website at [ngdnhtien.github.io](https://ngdnhtien.github.io).
 
 `contact` ngdnhtien@gmail.com / nguyendinhtien_t65@hus.edu.vn
 
-`my-CV` [nguyendinhtien_cv_may2021](https://ngdnhtien.github.io/pdf/nguyendinhtien_cv_may2021.pdf) (last update May 2021).
+`my-CV (en)` [nguyendinhtien_cv_may2021_en](https://ngdnhtien.github.io/pdf/nguyendinhtien-cv-sep2021-en.pdf) (last update May 2021).
+`my-CV (vi)` [nguyendinhtien_cv_may2021_vi](https://ngdnhtien.github.io/pdf/nguyendinhtien-cv-sep2021-vi.pdf) (last update May 2021).
