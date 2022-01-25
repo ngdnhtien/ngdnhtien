@@ -18,6 +18,6 @@ I am serving my first term as the Head of Academic Affairs at [HUS Physics Club]
 
 `[contact]` ngdnhtien@gmail.com / nguyendinhtien_t65@hus.edu.vn
 
-`[my-CV (en)]` [nguyendinhtien-cv-january2022](/pdf/nguyendinhtien-cv-jan2022.pdf)
+`[my-CV (en)]` [nguyendinhtien-cv-january2022](https://ngdnhtien.github.io/pdf/nguyendinhtien-cv-jan2022.pdf)
 
 I listen to Coldplay and read Haruki Murakami. When I'm not doodling equations or coding, you may find me playing guitar or reading a book at one of those The Coffee House stores.
