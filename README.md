@@ -6,4 +6,4 @@ I recently took a drift into the realm of quantum error correction where I study
 
 #### Links
 
-You can reach me at [ngdnhtien [at] gmail.com](mailto:ngdnhtien@gmail.com). Here's a copy of my [`[CV]`](/pdf/cv.pdf). Ramblings on quantum stuff, literature, or how Pi could not be a constant can be read on [my blog](/posts), see [tags](/tags). My lousy covers of Gun N' Roses and random hikes are on [YouTube](https://www.youtube.com/@ngdnhtien). If you like photography, check out my [Light-sensor interaction](https://light-sensor-interaction.github.io) portfolio.
+You can reach me at [ngdnhtien [at] gmail.com](mailto:ngdnhtien@gmail.com). Here's a copy of my [`[CV]`](/pdf/cv.pdf). Ramblings on quantum stuff, literature, or how Pi could not be a constant can be read on [my blog](/posts), see [tags](/tags). My lousy covers of Gun N' Roses and random hikes are on [YouTube](https://www.youtube.com/@ngdnhtien). If you like photography, check out my [light-sensor interaction](https://light-sensor-interaction.github.io) portfolio.
